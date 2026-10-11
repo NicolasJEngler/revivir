@@ -1,0 +1,995 @@
+{
+  "licencia": "CC0-1.0",
+  "actualizado": "2026-10-11",
+  "total": 42,
+  "puntos": [
+    {
+      "id": "caba-pv-plaza-san-mart-n",
+      "nombre": "Plaza San Martín",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 1",
+      "direccion": "Av. Santa Fe y Maipú",
+      "lat": -34.5946395,
+      "lon": -58.3759048,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-rosario-vera-pe-aloza",
+      "nombre": "Plaza Rosario Vera Peñaloza",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 1",
+      "direccion": "Av. San Juan y Chacabuco",
+      "lat": -34.6224629,
+      "lon": -58.3762858,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-monse-or-de-andrea",
+      "nombre": "Plaza Monseñor De Andrea",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 2",
+      "direccion": "Anchorena y Av. Córdoba",
+      "lat": -34.5970283,
+      "lon": -58.4078197,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plazoleta-reino-de-tailandia",
+      "nombre": "Plazoleta Reino de Tailandia",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 2",
+      "direccion": "Av. Pueyrredón y Vicente López",
+      "lat": -34.5870278,
+      "lon": -58.3966793,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-1ro-de-mayo",
+      "nombre": "Plaza 1ro de Mayo",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 3",
+      "direccion": "Hipólito Yrigoyen y Pasco",
+      "lat": -34.5571785,
+      "lon": -58.4850798,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-parque-patricios",
+      "nombre": "Parque Patricios",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 4",
+      "direccion": "Av. Caseros y Monteagudo",
+      "lat": -34.6384945,
+      "lon": -58.4063149,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-colombia",
+      "nombre": "Plaza Colombia",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 4",
+      "direccion": "Av. Montes de Oca y Brandsen",
+      "lat": -34.6374576,
+      "lon": -58.3741873,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-mariano-boedo",
+      "nombre": "Plaza Mariano Boedo",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 5",
+      "direccion": "Estados Unidos y Sánchez de Loria",
+      "lat": -34.6224742,
+      "lon": -58.4128304,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-almagro",
+      "nombre": "Plaza Almagro",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 5",
+      "direccion": "Sarmiento y Bulnes",
+      "lat": -34.6056724,
+      "lon": -58.41909,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-parque-rivadavia",
+      "nombre": "Parque Rivadavia",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 6",
+      "direccion": "Av. Rivadavia y Florencio Balcarce",
+      "lat": -34.6178371,
+      "lon": -58.4334818,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-parque-centenario",
+      "nombre": "Parque Centenario",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 6",
+      "direccion": "Av. Patricias Argentinas y Av. Roentgen",
+      "lat": -34.6065159,
+      "lon": -58.4355685,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-pueyrred-n",
+      "nombre": "Plaza Pueyrredón",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 7",
+      "direccion": "Yerbal y Artigas",
+      "lat": -34.6284468,
+      "lon": -58.4636278,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-parque-chacabuco",
+      "nombre": "Parque Chacabuco",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 7",
+      "direccion": "Av. Asamblea y Hortiguera",
+      "lat": -34.6338619,
+      "lon": -58.4429726,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-sudam-rica",
+      "nombre": "Plaza Sudamérica",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 8",
+      "direccion": "Av. Piedra Buena y Av. Fernández de la Cruz",
+      "lat": -34.6883834,
+      "lon": -58.4750665,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-estaci-n-villa-soldati",
+      "nombre": "Estación Villa Soldati",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 8",
+      "direccion": "Lafuente y Corrales",
+      "lat": -34.6623414,
+      "lon": -58.4408662,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-parque-avellaneda",
+      "nombre": "Parque Avellaneda",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 9",
+      "direccion": "Av. Directorio y Fernández",
+      "lat": -34.6450628,
+      "lon": -58.4797234,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-parque-santojanni",
+      "nombre": "Parque Santojanni",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 9",
+      "direccion": "Lisandro de La Torre y Patrón",
+      "lat": -34.6478089,
+      "lon": -58.5140389,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-don-bosco",
+      "nombre": "Plaza Don Bosco",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 10",
+      "direccion": "Av. Lope de Vega y Elpidio González",
+      "lat": -34.625995,
+      "lon": -58.5084084,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-arist-bulo-del-valle",
+      "nombre": "Plaza Aristóbulo del Valle",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 11",
+      "direccion": "Campana y Baigorria",
+      "lat": -34.6055608,
+      "lon": -58.4929425,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-arenales",
+      "nombre": "Plaza Arenales",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 11",
+      "direccion": "Nueva York y Mercedes",
+      "lat": -34.5993599,
+      "lon": -58.5122605,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-parque-saavedra",
+      "nombre": "Parque Saavedra",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 12",
+      "direccion": "Roque Pérez y Paroissien",
+      "lat": -34.5506922,
+      "lon": -58.4800002,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-leandro-n-alem",
+      "nombre": "Plaza Leandro N. Alem",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 12",
+      "direccion": "Artigas y Larsen",
+      "lat": -34.5763242,
+      "lon": -58.5032357,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-manuel-belgrano",
+      "nombre": "Plaza Manuel Belgrano",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 13",
+      "direccion": "Cuba y Av. Juramento",
+      "lat": -34.5616686,
+      "lon": -58.454782,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-balcarce",
+      "nombre": "Plaza Balcarce",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 13",
+      "direccion": "Manzanares y Vuelta de Obligado",
+      "lat": -34.5474263,
+      "lon": -58.4685265,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-g-emes",
+      "nombre": "Plaza Güemes",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 14",
+      "direccion": "Medrano y Charcas",
+      "lat": -34.589902,
+      "lon": -58.4161252,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-rep-blica-de-bolivia",
+      "nombre": "Plaza República de Bolivia",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 14",
+      "direccion": "Av. Libertador y Olleros",
+      "lat": -34.5629442,
+      "lon": -58.4366958,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-palermo-viejo",
+      "nombre": "Plaza Palermo Viejo",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 14",
+      "direccion": "Malabia y Costa Rica",
+      "lat": -34.5887904,
+      "lon": -58.4252366,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-parque-los-andes",
+      "nombre": "Parque Los Andes",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 15",
+      "direccion": "Av. Dorrego y Av. Guzmán",
+      "lat": -34.5886307,
+      "lon": -58.4529091,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "caba-pv-plaza-25-de-agosto",
+      "nombre": "Plaza 25 de Agosto",
+      "tipo": "punto-verde",
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "localidad": "Comuna 15",
+      "direccion": "Charlone y Heredia",
+      "lat": -34.5801503,
+      "lon": -58.462548,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "monitores/TV de tubo",
+        "pilas hinchadas o corroídas"
+      ],
+      "horario": "Miércoles a domingos",
+      "operador": "Gobierno de la Ciudad de Buenos Aires",
+      "fuente": "https://buenosaires.gob.ar/gcaba_historico/puntos-verdes",
+      "estado": "verificado"
+    },
+    {
+      "id": "sf-acutis",
+      "nombre": "Programa \"Beato Carlo Acutis\" (UTN Santa Fe)",
+      "tipo": "gestor",
+      "provincia": "Santa Fe",
+      "localidad": "Santa Fe",
+      "direccion": "Lavaisse 610 (UTN Facultad Regional Santa Fe)",
+      "lat": -31.6167562,
+      "lon": -60.6752372,
+      "recibe": [
+        "computadoras",
+        "electrónica"
+      ],
+      "no_recibe": [
+        "grandes electrodomésticos",
+        "pilas",
+        "monitores/TV de tubo",
+        "lámparas de bajo consumo",
+        "instrumentos médicos",
+        "juguetes"
+      ],
+      "horario": "",
+      "operador": "Cooperativa en formación (UTN - Cáritas Santa Fe)",
+      "fuente": "https://www.unosantafe.com.ar/santa-fe/el-concejo-tendra-un-punto-recoleccion-residuos-electricos-y-electronicos-n10193126.html",
+      "estado": "verificado"
+    },
+    {
+      "id": "sf-planta-raee-municipal",
+      "nombre": "Planta de RAEE (AEES) de la Municipalidad de Santa Fe",
+      "tipo": "planta",
+      "provincia": "Santa Fe",
+      "localidad": "Santa Fe",
+      "direccion": "Complejo Ambiental de Santa Fe (Ruta Nacional 168)",
+      "lat": -31.6873827,
+      "lon": -60.51086,
+      "recibe": [
+        "aparatos eléctricos y electrónicos completos"
+      ],
+      "no_recibe": [
+        "piezas sueltas"
+      ],
+      "horario": "Eco Puntos con atención personalizada: 9 a 19 h",
+      "operador": "Municipalidad de Santa Fe",
+      "fuente": "https://santafeciudad.gov.ar/residuos",
+      "estado": "aproximado"
+    },
+    {
+      "id": "sf-eco-parque-alberdi",
+      "nombre": "Eco Punto Parque Alberdi",
+      "tipo": "punto-verde",
+      "provincia": "Santa Fe",
+      "localidad": "Santa Fe",
+      "direccion": "Rivadavia, entre Cortada Falucho y Primera Junta",
+      "lat": -31.64814,
+      "lon": -60.70509,
+      "recibe": [
+        "electrónica (RAEE)",
+        "papel",
+        "cartón",
+        "plástico",
+        "metal",
+        "vidrio",
+        "telgopor",
+        "textiles"
+      ],
+      "no_recibe": [],
+      "horario": "Todos los días de 9 a 19 h (con atención personalizada)",
+      "operador": "Municipalidad de Santa Fe",
+      "fuente": "https://santafeciudad.gov.ar/residuos",
+      "estado": "verificado"
+    },
+    {
+      "id": "sf-eco-estacion-belgrano",
+      "nombre": "Eco Punto Estación Belgrano",
+      "tipo": "punto-verde",
+      "provincia": "Santa Fe",
+      "localidad": "Santa Fe",
+      "direccion": "Boulevard Gálvez casi Dorrego",
+      "lat": -31.63887,
+      "lon": -60.68728,
+      "recibe": [
+        "electrónica (RAEE)",
+        "papel",
+        "cartón",
+        "plástico",
+        "metal",
+        "vidrio",
+        "telgopor",
+        "textiles"
+      ],
+      "no_recibe": [],
+      "horario": "Todos los días de 9 a 19 h (con atención personalizada)",
+      "operador": "Municipalidad de Santa Fe",
+      "fuente": "https://santafeciudad.gov.ar/residuos",
+      "estado": "verificado"
+    },
+    {
+      "id": "sf-eco-parque-federal",
+      "nombre": "Eco Punto Parque Federal",
+      "tipo": "punto-verde",
+      "provincia": "Santa Fe",
+      "localidad": "Santa Fe",
+      "direccion": "Pedro Vittori y Regis Martínez",
+      "lat": -31.62216,
+      "lon": -60.69574,
+      "recibe": [
+        "electrónica (RAEE)",
+        "papel",
+        "cartón",
+        "plástico",
+        "metal",
+        "vidrio",
+        "telgopor",
+        "textiles"
+      ],
+      "no_recibe": [],
+      "horario": "Todos los días de 9 a 19 h (con atención personalizada)",
+      "operador": "Municipalidad de Santa Fe",
+      "fuente": "https://santafeciudad.gov.ar/residuos",
+      "estado": "verificado"
+    },
+    {
+      "id": "sf-eco-costanera-oeste",
+      "nombre": "Eco Punto Costanera Oeste",
+      "tipo": "punto-verde",
+      "provincia": "Santa Fe",
+      "localidad": "Santa Fe",
+      "direccion": "Almirante Brown al 5294",
+      "lat": -31.62363,
+      "lon": -60.67843,
+      "recibe": [
+        "electrónica (RAEE)",
+        "papel",
+        "cartón",
+        "plástico",
+        "metal",
+        "vidrio",
+        "telgopor",
+        "textiles"
+      ],
+      "no_recibe": [],
+      "horario": "Todos los días de 9 a 19 h (con atención personalizada)",
+      "operador": "Municipalidad de Santa Fe",
+      "fuente": "https://santafeciudad.gov.ar/residuos",
+      "estado": "verificado"
+    },
+    {
+      "id": "sf-eco-parque-garay",
+      "nombre": "Eco Punto Parque Garay",
+      "tipo": "punto-verde",
+      "provincia": "Santa Fe",
+      "localidad": "Santa Fe",
+      "direccion": "Salvador Caputto y Av. Presidente Perón",
+      "lat": -31.63737,
+      "lon": -60.71611,
+      "recibe": [
+        "electrónica (RAEE)",
+        "papel",
+        "cartón",
+        "plástico",
+        "metal",
+        "vidrio",
+        "telgopor",
+        "textiles"
+      ],
+      "no_recibe": [],
+      "horario": "Todos los días de 9 a 19 h (con atención personalizada)",
+      "operador": "Municipalidad de Santa Fe",
+      "fuente": "https://santafeciudad.gov.ar/residuos",
+      "estado": "verificado"
+    },
+    {
+      "id": "sf-eco-rotonda-guadalupe",
+      "nombre": "Eco Punto Rotonda Guadalupe",
+      "tipo": "punto-verde",
+      "provincia": "Santa Fe",
+      "localidad": "Santa Fe",
+      "direccion": "Javier de la Rosa y Almirante Brown",
+      "lat": -31.60477,
+      "lon": -60.66595,
+      "recibe": [
+        "electrónica (RAEE)",
+        "papel",
+        "cartón",
+        "plástico",
+        "metal",
+        "vidrio",
+        "telgopor",
+        "textiles"
+      ],
+      "no_recibe": [],
+      "horario": "Todos los días de 9 a 19 h (con atención personalizada)",
+      "operador": "Municipalidad de Santa Fe",
+      "fuente": "https://santafeciudad.gov.ar/residuos",
+      "estado": "verificado"
+    },
+    {
+      "id": "sf-eco-plaza-fournier",
+      "nombre": "Eco Punto Plaza Fournier",
+      "tipo": "punto-verde",
+      "provincia": "Santa Fe",
+      "localidad": "Santa Fe",
+      "direccion": "Castelli y San Lorenzo",
+      "lat": -31.60444,
+      "lon": -60.70602,
+      "recibe": [
+        "electrónica (RAEE)",
+        "papel",
+        "cartón",
+        "plástico",
+        "metal",
+        "vidrio",
+        "telgopor",
+        "textiles"
+      ],
+      "no_recibe": [],
+      "horario": "Todos los días de 9 a 19 h (con atención personalizada)",
+      "operador": "Municipalidad de Santa Fe",
+      "fuente": "https://santafeciudad.gov.ar/residuos",
+      "estado": "verificado"
+    },
+    {
+      "id": "sf-eco-el-pozo",
+      "nombre": "Eco Punto El Pozo",
+      "tipo": "punto-verde",
+      "provincia": "Santa Fe",
+      "localidad": "Santa Fe",
+      "direccion": "Leloir y Boero",
+      "lat": -31.63723,
+      "lon": -60.65661,
+      "recibe": [
+        "electrónica (RAEE)",
+        "papel",
+        "cartón",
+        "plástico",
+        "metal",
+        "vidrio",
+        "telgopor",
+        "textiles"
+      ],
+      "no_recibe": [],
+      "horario": "Todos los días de 9 a 19 h (con atención personalizada)",
+      "operador": "Municipalidad de Santa Fe",
+      "fuente": "https://santafeciudad.gov.ar/residuos",
+      "estado": "verificado"
+    },
+    {
+      "id": "sf-eco-paseo-restaurador",
+      "nombre": "Eco Punto Paseo del Restaurador",
+      "tipo": "punto-verde",
+      "provincia": "Santa Fe",
+      "localidad": "Santa Fe",
+      "direccion": "Pedro Vittori y Cándido Pujato",
+      "lat": -31.63405,
+      "lon": -60.70365,
+      "recibe": [
+        "electrónica (RAEE)",
+        "papel",
+        "cartón",
+        "plástico",
+        "metal",
+        "vidrio",
+        "telgopor",
+        "textiles"
+      ],
+      "no_recibe": [],
+      "horario": "Todos los días de 9 a 19 h (con atención personalizada)",
+      "operador": "Municipalidad de Santa Fe",
+      "fuente": "https://santafeciudad.gov.ar/residuos",
+      "estado": "aproximado"
+    },
+    {
+      "id": "sf-eco-colastine",
+      "nombre": "Eco Punto Estación Municipal Colastiné Norte",
+      "tipo": "punto-verde",
+      "provincia": "Santa Fe",
+      "localidad": "Colastiné Norte",
+      "direccion": "Las Macluras y Las Orquídeas",
+      "lat": -31.62304,
+      "lon": -60.605,
+      "recibe": [
+        "electrónica (RAEE)",
+        "papel",
+        "cartón",
+        "plástico",
+        "metal",
+        "vidrio",
+        "telgopor",
+        "textiles"
+      ],
+      "no_recibe": [],
+      "horario": "Todos los días de 9 a 19 h (con atención personalizada)",
+      "operador": "Municipalidad de Santa Fe",
+      "fuente": "https://santafeciudad.gov.ar/residuos",
+      "estado": "aproximado"
+    },
+    {
+      "id": "sf-eco-las-flores",
+      "nombre": "Eco Punto Las Flores",
+      "tipo": "punto-verde",
+      "provincia": "Santa Fe",
+      "localidad": "Santa Fe",
+      "direccion": "Av. Peñaloza y Regimiento 12 de Infantería",
+      "lat": -31.57987,
+      "lon": -60.73046,
+      "recibe": [
+        "electrónica (RAEE)",
+        "papel",
+        "cartón",
+        "plástico",
+        "metal",
+        "vidrio",
+        "telgopor",
+        "textiles"
+      ],
+      "no_recibe": [],
+      "horario": "Todos los días de 9 a 19 h (con atención personalizada)",
+      "operador": "Municipalidad de Santa Fe",
+      "fuente": "https://santafeciudad.gov.ar/residuos",
+      "estado": "aproximado"
+    }
+  ]
+}

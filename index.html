@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Revivir: gestores y acopio de RAEE en Argentina</title>
+  <meta name="description" content="Directorio abierto de gestores y puntos de acopio de RAEE (residuos de aparatos eléctricos y electrónicos) en Argentina, con datos abiertos (CC0)." />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Revivir</h1>
+    <p>Dónde llevar tus RAEE: gestores y puntos de acopio</p>
+    <p class="hint">Solo gestores/acopio de RAEE. Datos abiertos compilados de fuentes públicas. ¿Falta un punto? Mandá un <a href="https://github.com/NicolasJEngler/revivir">pull request</a>.</p>
+  </header>
+
+  <nav id="controles" aria-label="Filtros">
+    <label>Provincia:
+      <select id="provincia"><option value="">Todas</option></select>
+    </label>
+    <span id="tipos">
+      <label><input type="checkbox" value="gestor" checked /> Gestor</label>
+      <label><input type="checkbox" value="planta" checked /> Planta</label>
+      <label><input type="checkbox" value="acopio" checked /> Acopio</label>
+      <label><input type="checkbox" value="punto-verde" checked /> Punto verde</label>
+    </span>
+  </nav>
+
+  <main>
+    <div id="map" role="region" aria-label="Mapa de gestores de RAEE"></div>
+    <aside>
+      <h2 id="resumen">Cargando...</h2>
+      <ul id="list" aria-live="polite"></ul>
+    </aside>
+  </main>
+
+  <footer>
+    Datos CC0 1.0. Código AGPL-3.0.
+    <a href="https://github.com/NicolasJEngler/revivir">Contribuir por pull request</a>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
