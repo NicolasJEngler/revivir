@@ -40,6 +40,10 @@ Repositorio: https://github.com/NicolasJEngler/revivir
 
 - Gobierno de la Ciudad de Buenos Aires: Puntos Verdes (RAEE).
 - Municipalidad de Santa Fe: planta de RAEE y Eco Puntos.
+- Municipalidad de Rosario: recepción de residuos informáticos en Centros Municipales de Distrito y la Dirección de Gestión Integral de Residuos.
+- Municipalidad de Córdoba: recepción de RAEE en Centros de Participación Comunal (CPC) y Centro de Transferencia Rancagua.
+- Municipalidad de General Pueyrredón (Mar del Plata/Batán): Puntos Verdes fijos con recepción de RAEE.
+- Cooperativa de Trabajo Reciclaje Electrónico Neuquén (REN): gestor de RAEE en Centenario, Neuquén.
 - Programa Beato Carlo Acutis (UTN Santa Fe): cooperativa RAEE.
 - Ley provincial 13.940 (Santa Fe) de gestión de RAEE; Ley 24.240 de Defensa del Consumidor.
 

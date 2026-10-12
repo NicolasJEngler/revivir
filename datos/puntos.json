@@ -1,7 +1,7 @@
 {
   "licencia": "CC0-1.0",
   "actualizado": "2026-10-11",
-  "total": 42,
+  "total": 57,
   "puntos": [
     {
       "id": "caba-pv-plaza-san-mart-n",
@@ -989,6 +989,338 @@
       "horario": "Todos los días de 9 a 19 h (con atención personalizada)",
       "operador": "Municipalidad de Santa Fe",
       "fuente": "https://santafeciudad.gov.ar/residuos",
+      "estado": "aproximado"
+    },
+    {
+      "id": "cordoba-cpc-empalme",
+      "nombre": "CPC Empalme (recepción de RAEE)",
+      "tipo": "acopio",
+      "provincia": "Córdoba",
+      "localidad": "Córdoba",
+      "direccion": "Av. Amadeo Sabattini 4650",
+      "lat": -31.432806,
+      "lon": -64.135199,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "baterías",
+        "aceite vegetal usado"
+      ],
+      "no_recibe": [],
+      "horario": "Lunes a viernes",
+      "operador": "Municipalidad de Córdoba",
+      "fuente": "https://cordoba.gob.ar/wp-content/uploads/2022/12/link-2.pdf",
+      "estado": "aproximado"
+    },
+    {
+      "id": "cordoba-cpc-monsenor-pablo-cabrera",
+      "nombre": "CPC Monseñor Pablo Cabrera (recepción de RAEE)",
+      "tipo": "acopio",
+      "provincia": "Córdoba",
+      "localidad": "Córdoba",
+      "direccion": "Av. Monseñor Pablo Cabrera 4800",
+      "lat": -31.362116,
+      "lon": -64.204086,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "baterías",
+        "aceite vegetal usado"
+      ],
+      "no_recibe": [],
+      "horario": "Lunes a viernes",
+      "operador": "Municipalidad de Córdoba",
+      "fuente": "https://cordoba.gob.ar/wp-content/uploads/2022/12/link-2.pdf",
+      "estado": "aproximado"
+    },
+    {
+      "id": "cordoba-cpc-mercado-de-la-ciudad",
+      "nombre": "CPC Mercado de la Ciudad (recepción de RAEE)",
+      "tipo": "acopio",
+      "provincia": "Córdoba",
+      "localidad": "Córdoba",
+      "direccion": "Oncativo 50",
+      "lat": -31.40934,
+      "lon": -64.180462,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "baterías",
+        "aceite vegetal usado"
+      ],
+      "no_recibe": [],
+      "horario": "Lunes a viernes",
+      "operador": "Municipalidad de Córdoba",
+      "fuente": "https://cordoba.gob.ar/wp-content/uploads/2022/12/link-2.pdf",
+      "estado": "aproximado"
+    },
+    {
+      "id": "cordoba-cpc-jardin",
+      "nombre": "CPC Jardín (recepción de RAEE)",
+      "tipo": "acopio",
+      "provincia": "Córdoba",
+      "localidad": "Córdoba",
+      "direccion": "Celso Barrios y Av. Pablo Ricchieri",
+      "lat": -31.458,
+      "lon": -64.172,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "baterías",
+        "aceite vegetal usado"
+      ],
+      "no_recibe": [],
+      "horario": "Lunes a viernes",
+      "operador": "Municipalidad de Córdoba",
+      "fuente": "https://cordoba.gob.ar/wp-content/uploads/2022/12/link-2.pdf",
+      "estado": "aproximado"
+    },
+    {
+      "id": "cordoba-centro-transferencia-rancagua",
+      "nombre": "Centro de Transferencia Rancagua",
+      "tipo": "acopio",
+      "provincia": "Córdoba",
+      "localidad": "Córdoba",
+      "direccion": "Av. Rancagua y Circunvalación",
+      "lat": -31.355872,
+      "lon": -64.147638,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "chatarras",
+        "neumáticos",
+        "escombros",
+        "restos de poda",
+        "voluminosos"
+      ],
+      "no_recibe": [],
+      "horario": "Lunes a domingo de 8 a 20 h",
+      "operador": "Municipalidad de Córdoba",
+      "fuente": "https://cordoba.gob.ar/wp-content/uploads/2022/12/link-2.pdf",
+      "estado": "aproximado"
+    },
+    {
+      "id": "rosario-cmd-centro-antonio-berni",
+      "nombre": "Centro Municipal de Distrito Centro «Antonio Berni»",
+      "tipo": "acopio",
+      "provincia": "Santa Fe",
+      "localidad": "Rosario",
+      "direccion": "Wheelwright 1486",
+      "lat": -32.936555,
+      "lon": -60.64136,
+      "recibe": [
+        "electrónica (RAEE)"
+      ],
+      "no_recibe": [
+        "residuos corporativos",
+        "electrodomésticos de gran porte"
+      ],
+      "horario": "Jornadas de recepción de residuos informáticos (ver cronograma municipal)",
+      "operador": "Municipalidad de Rosario",
+      "fuente": "https://rosarionoticias.gob.ar/page/noticias/id/550560/title/Recepci%C3%B3n-de-residuos-inform%C3%A1ticos:-este-fin-de-semana-se-realizar%C3%A1n-las-primeras-jornadas-2025",
+      "estado": "aproximado"
+    },
+    {
+      "id": "rosario-cmd-norte-villa-hortensia",
+      "nombre": "Centro Municipal de Distrito Norte «Villa Hortensia»",
+      "tipo": "acopio",
+      "provincia": "Santa Fe",
+      "localidad": "Rosario",
+      "direccion": "Warnes 1917",
+      "lat": -32.895597,
+      "lon": -60.69425,
+      "recibe": [
+        "electrónica (RAEE)"
+      ],
+      "no_recibe": [
+        "residuos corporativos",
+        "electrodomésticos de gran porte"
+      ],
+      "horario": "Jornadas de recepción de residuos informáticos (ver cronograma municipal)",
+      "operador": "Municipalidad de Rosario",
+      "fuente": "https://rosarionoticias.gob.ar/page/noticias/id/550560/title/Recepci%C3%B3n-de-residuos-inform%C3%A1ticos:-este-fin-de-semana-se-realizar%C3%A1n-las-primeras-jornadas-2025",
+      "estado": "aproximado"
+    },
+    {
+      "id": "rosario-cmd-noroeste-cossettini",
+      "nombre": "Centro Municipal de Distrito Noroeste «Olga y Leticia Cossettini»",
+      "tipo": "acopio",
+      "provincia": "Santa Fe",
+      "localidad": "Rosario",
+      "direccion": "Av. Provincias Unidas 150 bis",
+      "lat": -32.928122,
+      "lon": -60.712274,
+      "recibe": [
+        "electrónica (RAEE)"
+      ],
+      "no_recibe": [
+        "residuos corporativos",
+        "electrodomésticos de gran porte"
+      ],
+      "horario": "Jornadas de recepción de residuos informáticos (ver cronograma municipal)",
+      "operador": "Municipalidad de Rosario",
+      "fuente": "https://rosarionoticias.gob.ar/page/noticias/id/550560/title/Recepci%C3%B3n-de-residuos-inform%C3%A1ticos:-este-fin-de-semana-se-realizar%C3%A1n-las-primeras-jornadas-2025",
+      "estado": "aproximado"
+    },
+    {
+      "id": "rosario-cmd-oeste-felipe-more",
+      "nombre": "Centro Municipal de Distrito Oeste «Felipe Moré»",
+      "tipo": "acopio",
+      "provincia": "Santa Fe",
+      "localidad": "Rosario",
+      "direccion": "Av. Presidente Perón 4602",
+      "lat": -32.957747,
+      "lon": -60.69113,
+      "recibe": [
+        "electrónica (RAEE)"
+      ],
+      "no_recibe": [
+        "residuos corporativos",
+        "electrodomésticos de gran porte"
+      ],
+      "horario": "Jornadas de recepción de residuos informáticos (ver cronograma municipal)",
+      "operador": "Municipalidad de Rosario",
+      "fuente": "https://rosarionoticias.gob.ar/page/noticias/id/550560/title/Recepci%C3%B3n-de-residuos-inform%C3%A1ticos:-este-fin-de-semana-se-realizar%C3%A1n-las-primeras-jornadas-2025",
+      "estado": "aproximado"
+    },
+    {
+      "id": "rosario-cmd-sudoeste-emilia-bertole",
+      "nombre": "Centro Municipal de Distrito Sudoeste «Emilia Bertolé»",
+      "tipo": "acopio",
+      "provincia": "Santa Fe",
+      "localidad": "Rosario",
+      "direccion": "Av. Francia 4435",
+      "lat": -32.983436,
+      "lon": -60.675958,
+      "recibe": [
+        "electrónica (RAEE)"
+      ],
+      "no_recibe": [
+        "residuos corporativos",
+        "electrodomésticos de gran porte"
+      ],
+      "horario": "Jornadas de recepción de residuos informáticos (ver cronograma municipal)",
+      "operador": "Municipalidad de Rosario",
+      "fuente": "https://rosarionoticias.gob.ar/page/noticias/id/550560/title/Recepci%C3%B3n-de-residuos-inform%C3%A1ticos:-este-fin-de-semana-se-realizar%C3%A1n-las-primeras-jornadas-2025",
+      "estado": "aproximado"
+    },
+    {
+      "id": "rosario-cmd-sur-rosa-ziperovich",
+      "nombre": "Centro Municipal de Distrito Sur «Rosa Ziperovich»",
+      "tipo": "acopio",
+      "provincia": "Santa Fe",
+      "localidad": "Rosario",
+      "direccion": "Av. Uriburu 637",
+      "lat": -32.990969,
+      "lon": -60.64287,
+      "recibe": [
+        "electrónica (RAEE)"
+      ],
+      "no_recibe": [
+        "residuos corporativos",
+        "electrodomésticos de gran porte"
+      ],
+      "horario": "Jornadas de recepción de residuos informáticos (ver cronograma municipal)",
+      "operador": "Municipalidad de Rosario",
+      "fuente": "https://rosarionoticias.gob.ar/page/noticias/id/550560/title/Recepci%C3%B3n-de-residuos-inform%C3%A1ticos:-este-fin-de-semana-se-realizar%C3%A1n-las-primeras-jornadas-2025",
+      "estado": "aproximado"
+    },
+    {
+      "id": "rosario-direccion-gestion-residuos",
+      "nombre": "Dirección de Gestión Integral de Residuos (Rosario)",
+      "tipo": "acopio",
+      "provincia": "Santa Fe",
+      "localidad": "Rosario",
+      "direccion": "Montevideo 2852",
+      "lat": -32.951816,
+      "lon": -60.664592,
+      "recibe": [
+        "electrónica (RAEE)"
+      ],
+      "no_recibe": [
+        "residuos corporativos",
+        "electrodomésticos de gran porte"
+      ],
+      "horario": "Jornadas de recepción de residuos informáticos (ver cronograma municipal)",
+      "operador": "Municipalidad de Rosario",
+      "fuente": "https://rosarionoticias.gob.ar/page/noticias/id/550560/title/Recepci%C3%B3n-de-residuos-inform%C3%A1ticos:-este-fin-de-semana-se-realizar%C3%A1n-las-primeras-jornadas-2025",
+      "estado": "aproximado"
+    },
+    {
+      "id": "buenos-aires-mdp-punto-verde-batan",
+      "nombre": "Punto Verde Fijo Batán",
+      "tipo": "punto-verde",
+      "provincia": "Buenos Aires",
+      "localidad": "Batán (General Pueyrredón)",
+      "direccion": "Av. Centenario y Las Charitas",
+      "lat": -38.000338,
+      "lon": -57.709157,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "aceite vegetal usado",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "electrodomésticos de gran porte",
+        "pilas de mercurio",
+        "focos",
+        "neumáticos",
+        "medicamentos",
+        "ecobotellas"
+      ],
+      "horario": "Ver cronograma municipal",
+      "operador": "Municipalidad de General Pueyrredón (Emsur)",
+      "fuente": "https://www.mardelplata.gob.ar/puntosverdes",
+      "estado": "aproximado"
+    },
+    {
+      "id": "buenos-aires-mdp-punto-verde-peralta-ramos",
+      "nombre": "Punto Verde Fijo Bosque de Peralta Ramos",
+      "tipo": "punto-verde",
+      "provincia": "Buenos Aires",
+      "localidad": "Mar del Plata",
+      "direccion": "Sociedad de Fomento Bosque de Peralta Ramos",
+      "lat": -38.087933,
+      "lon": -57.571855,
+      "recibe": [
+        "electrónica (RAEE)",
+        "pilas",
+        "aceite vegetal usado",
+        "reciclables"
+      ],
+      "no_recibe": [
+        "electrodomésticos de gran porte",
+        "pilas de mercurio",
+        "focos",
+        "neumáticos",
+        "medicamentos",
+        "ecobotellas"
+      ],
+      "horario": "Ver cronograma municipal",
+      "operador": "Municipalidad de General Pueyrredón (Emsur)",
+      "fuente": "https://www.mardelplata.gob.ar/puntosverdes",
+      "estado": "aproximado"
+    },
+    {
+      "id": "neuquen-cooperativa-ren",
+      "nombre": "Cooperativa de Trabajo Reciclaje Electrónico Neuquén (REN)",
+      "tipo": "gestor",
+      "provincia": "Neuquén",
+      "localidad": "Centenario",
+      "direccion": "Catamarca 136",
+      "lat": -38.838674,
+      "lon": -68.132249,
+      "recibe": [
+        "electrónica (RAEE)",
+        "computadoras",
+        "celulares",
+        "electrodomésticos"
+      ],
+      "no_recibe": [],
+      "horario": "",
+      "operador": "Cooperativa de Trabajo Reciclaje Electrónico Neuquén",
+      "fuente": "https://www.cooperativaren.org/",
       "estado": "aproximado"
     }
   ]
